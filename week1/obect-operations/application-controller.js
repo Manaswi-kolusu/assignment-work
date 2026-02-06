@@ -3,12 +3,12 @@
 // Scenario : A web app stores user preferences as settings.
 
 // Test data:
-// const settings = {
-//   theme: "light",
-//   notifications: true,
-//   autoSave: false,
-//   language: "en"
-// };
+ const settings = {
+   theme: "light",
+   notifications: true,
+   autoSave: false,
+   language: "en"
+ };
 
 
 // Tasks :
