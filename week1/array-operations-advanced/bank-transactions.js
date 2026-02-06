@@ -5,12 +5,12 @@
 // You are building a bank statement summary.
 
 // Test data:
-// const transactions = [
-//   { id: 1, type: "credit", amount: 5000 },
-//   { id: 2, type: "debit", amount: 2000 },
-//   { id: 3, type: "credit", amount: 10000 },
-//   { id: 4, type: "debit", amount: 3000 }
-// ];
+const transactions = [
+   { id: 1, type: "credit", amount: 5000 },
+   { id: 2, type: "debit", amount: 2000 },
+   { id: 3, type: "credit", amount: 10000 },
+   { id: 4, type: "debit", amount: 3000 }
+ ];
 
 
 // Tasks:
